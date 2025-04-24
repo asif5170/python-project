@@ -1,4 +1,4 @@
-#This is python calculator-project
+#This is python project
 <br>
 This is my first project
 <br>
